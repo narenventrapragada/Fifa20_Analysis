@@ -36,6 +36,7 @@ Power Query (data transformation)
 Power BI Desktop (data visualization)
 
 📊 Dashboard Structure (Power BI)
+
 1️⃣ Overview Dashboard
 
 Total players, clubs, and nationalities
