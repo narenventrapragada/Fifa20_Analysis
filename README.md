@@ -111,5 +111,5 @@ https://app.powerbi.com/groups/me/reports/2b0d039e-26ee-49db-b6f1-fa3edefaa894/c
 
 Naren Ventrapragada
 Aspiring Data Analyst | Excel | Power BI | SQL
-📧 Email: [Your Email]
-🔗 LinkedIn: [Your LinkedIn Profile]
+📧 Email: ventrapragadanaren@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/naren-ventrapragada-766439237
